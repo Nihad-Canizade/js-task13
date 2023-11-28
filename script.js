@@ -65,7 +65,7 @@ navp1.style.cursor = "pointer";
 
 
 
-// Section1
+// Section 1
 let section1 = document.createElement("section");
 let fortext = document.createElement("div");
 let forimg = document.createElement("div");

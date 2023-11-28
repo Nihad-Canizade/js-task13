@@ -153,13 +153,13 @@
 }
 
 .icons i {
+    cursor: pointer;
     font-size: 35px;
     margin-left: 1.5rem;
     background: -webkit-linear-gradient(315deg, #1e30f3 0%, #e21e80 100%);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
-    cursor: pointer;
 }
 
 
